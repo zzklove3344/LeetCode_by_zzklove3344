@@ -1,5 +1,3 @@
-//一个更加高效地方法
-
 #include "TreeNode.h"
 
 class Solution {

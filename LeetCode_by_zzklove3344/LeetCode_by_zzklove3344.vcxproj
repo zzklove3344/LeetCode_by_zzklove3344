@@ -22,7 +22,7 @@
     <ProjectGuid>{83BFCD32-BF67-4FD6-8E8F-0BD3778F2FAE}</ProjectGuid>
     <RootNamespace>LeetCode_by_zzklove3344</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>129_by_zzklove3344</ProjectName>
+    <ProjectName>130_by_zzklove3344</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
